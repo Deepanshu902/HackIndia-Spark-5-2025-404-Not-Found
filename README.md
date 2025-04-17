@@ -2,3 +2,5 @@
 # 🗳️ DeVote - Decentralized Voting System
 
 DeVote is a smart contract-based decentralized voting application deployed on the Ethereum Sepolia testnet.
+
+📌 Features
